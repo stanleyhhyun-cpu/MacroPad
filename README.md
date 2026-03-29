@@ -1,2 +1,3 @@
-# MacroPad
-StudyPad for AMD Blueprint sumbission
+# MacroPad Stanley Hyun
+This project is called Study Pad because it will help students study! This will help students study using the Pomodoro Technique. The Pomodoro technique involves studying for 25 minutes and taking a 5-minute break in between. Each button on the hackpad will serve a different purpose. For example, the first button starts the 25-minute study timer, the second starts the 5-minute break timer, the third resets the timer, and the fourth kills the device by shutting it off. Each button will have an LED behind it. The device will have a speaker that sounds every time the 25 minute alarm goes off.
+
